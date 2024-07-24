@@ -5,7 +5,7 @@ CODSOFT is a vibrant and diverse community that brings together individuals with
 
 We believe in the power of leadership and its ability to drive positive change. That's why we provide platforms and resources for our community members to develop their leadership skills. Through mentorship programs, workshops, and collaborative projects, we empower individuals to take on leadership roles and make a difference in their respective fields.
 
-## Task 1 - [Number Guessing Game](http://www.example.com):
+## Task 1 - [Number Guessing Game](https://github.com/SHREEYA-DAS/CODSOFT/blob/main/Task%201%20-%20Number%20Game/task1.java):
 
 1. Generate a random number within a specified range, such as 1 to 100.
 2. Prompt the user to enter their guess for the generated number.
@@ -18,7 +18,7 @@ Additional details:
 6. Add the option for multiple rounds, allowing the user to play again. <br>
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
-## Task 2 - [Student Grade Calculator](http://www.example.com):
+## Task 2 - [Student Grade Calculator](https://github.com/SHREEYA-DAS/CODSOFT/blob/main/Task%202%20-%20Student%20Grade%20Calculator/task2.java):
 
 1. Input: Take marks obtained (out of 100) in each subject.
 2. Calculate Total Marks: Sum up the marks obtained in all subjects.
@@ -26,7 +26,7 @@ Additional details:
 4. Grade Calculation: Assign grades based on the average percentage achieved.
 5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user.
 
-## Task 3 - [ATM Interface](http://www.example.com):
+## Task 3 - [ATM Interface](https://github.com/SHREEYA-DAS/CODSOFT/blob/main/Task%203%20-%20ATM%20Interface/task3.java):
 
 1. Create a class to represent the ATM machine.
 2. Design the user interface for the ATM, including options such as withdrawing, depositing, and checking the balance.
